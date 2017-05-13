@@ -2,7 +2,7 @@
 package aiapplication;
 /*
  *
- * @author devli
+ * @author Devlin Wyatt
  */
 import javax.swing.*;
 import java.awt.*;
