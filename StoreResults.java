@@ -11,7 +11,7 @@ import java.io.File;
 import java.io.IOException;
 
 /*
- * @author Devlin Wyatt
+ * @author Debrah Wyatt
  */
 public class StoreResults {
     
